@@ -1,2 +1,3 @@
-# poorandualthemeportfolio
-Created with CodeSandbox
+# Dual Theme Portfolio
+
+# [DEMO LINK] (https://pooransuthar.netlify.app/)
